@@ -47,7 +47,8 @@ A svg library that can draw svg element easliy through javascript.
 - **createPolyline: function (id, fill, points)**
 - createPolylineWithStroke: function (id, fill, points, stroke, strokeWidth)
 ```
-    SVGLib.createPolyline('', 'fill', '117.5,119.9 115.9,110.7 125.2,110.7 123.9,119.9 122.6,140.3 120.7,143.5 118.4,139.6')
+    SVGLib.createPolyline('', 'fill'
+    , '117.5,119.9 115.9,110.7 125.2,110.7 123.9,119.9 122.6,140.3 120.7,143.5 118.4,139.6')
 ```
 - **createRoundedRect: function (x, y, w, h, r, tl, tr, bl, br)**
 ```
