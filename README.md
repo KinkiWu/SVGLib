@@ -4,7 +4,7 @@ A svg library that can draw svg element easliy through javascript.
 
 ## Include the js file
 ```html
-<script src="app/shared/CommonLib.js?" type="text/javascript"></script>
+<script src="app/shared/CommonLib.js" type="text/javascript"></script>
 ```
 
 ## Using SVGLib
