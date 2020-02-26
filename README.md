@@ -9,7 +9,7 @@ A svg library that can draw svg element easliy through javascript.
 
 ## Using SVGLib
 - **createText: function (id, x, y, size, anchor, color, weight, content)**
-```
+```javascript
     SVGLib.createText('', '0', '6', '16', 'middle', 'white', 'bold', 'P')
 ```
 - **createRect: function (id, x, y, w, h, rx, ry, fill, stroke, strokeWidth)**
